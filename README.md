@@ -1,1 +1,1 @@
-![ScreenShot]https://github.com/BattleCupcake/JobsList/blob/master/testtaskscreenshot.png
+https://github.com/BattleCupcake/JobsList/blob/master/testtaskscreenshot.png
